@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/8ff52de2-7c61-43bd-8eaf-88ed8d4a6b4b" />
+
+---
 <h1 align="center">Hi 👋, I'm Tejal Hagare</h1>
 
 <h3 align="center">
